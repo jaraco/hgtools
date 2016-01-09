@@ -1,6 +1,11 @@
 Changes
 *******
 
+7.0
+~~~
+
+* Drop support for Python 2.6 and Python 3.1.
+
 6.5
 ~~~
 
